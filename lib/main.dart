@@ -101,7 +101,8 @@ body:SingleChildScrollView(
               borderRadius: BorderRadius.circular(20),
               border: Border.all(
                 width: 3,
-                color: Colors.blue.shade200,
+                color: Colors.lightBlue,
+
               ),
 
 
